@@ -166,3 +166,14 @@ python exp/trainer.py -al lazysi -ll conf99/ptgm_append4/s20g20b4/ptgm/s20g20b4 
 # permutation 4
 python exp/trainer.py -al lazysi -ll conf99/ptgm_append4/s20g20b4/ptgm/s20g20b4 -sc  objective_p3
 ```
+Cite
+---
+```
+@inproceedings{
+  lee2025policy,
+  title={Policy Compatible Skill Incremental Learning via Lazy Learning Interface},
+  author={Daehee Lee and Dongsu Lee and TaeYoon Kwack and Wonje Choi and Honguk Woo},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025},
+}
+```
